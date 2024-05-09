@@ -44,6 +44,7 @@ print(classification_report(y_test,predictions))
 
 ## Output:
 ![WhatsApp Image 2024-05-09 at 01 27 07_b645f489](https://github.com/Purajiths/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145548193/c2560002-9d3b-4e5c-8746-18769fa6a03b)
+
 ![WhatsApp Image 2024-05-09 at 01 27 15_22b5459f](https://github.com/Purajiths/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145548193/31d7785f-7ee5-411e-8761-6b0bdbc723fa)
 
 ## Result:
